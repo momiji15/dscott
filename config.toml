@@ -7,11 +7,13 @@ builddrafts             = false                             # Include pages with
 canonifyurls            = true                              # Turns relative urls into absolute urls
 # disqusshortname       = "xxx"                             # Enable Disqus for comments
 # googleAnalytics       = "xxx"
+publishDir = "/public"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]    
     blogHead            = "Blog"                            # Full name shows on blog post pages
     firstName           = "Dorris"                    # First name shows in introduction on main page
-    tagLine             = "I'm interested in public health, GIS, data science, and instructional design."  # Appears after the introduction
+    tagLine             = "I'm interested in public health, GIS, data visualization and instructional design."  # Appears after the introduction
     introHeight         = "large"                           # Input either 'medium' or 'large' or 'fullheight'
     themeStyle          = "light"                           # Choose 'light' or 'dark'
     avatar              = "img/profile.jpg"                 # Path to image in static folder eg. img/avatar.png, or comment out to remove
@@ -33,7 +35,7 @@ canonifyurls            = true                              # Turns relative url
     showProjects        = true                              # Show Projects section on home page
     projectColumns      = "3"                               # Choose "2" or "3" columns for projects section
     placeHolderimg      = "/img/workday.jpg"                # For Projects without image
-    showAllPosts        = false                             # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
+    showAllPosts        = true                             # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
     showLatest          = true                              # Show latest blog post summary
     shareButtons        = true                              # On post pages, show share this social buttons
 
