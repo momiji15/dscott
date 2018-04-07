@@ -6,37 +6,9 @@
     <description>Recent content in Tags on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>100 Days of Code</title>
-      <link>/tags/100-days-of-code/</link>
-      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/100-days-of-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coding</title>
-      <link>/tags/coding/</link>
-      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/coding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

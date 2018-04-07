@@ -18,16 +18,6 @@
   </url>
   
   <url>
-    <loc>/post/100-days-of-code-challenge-the-comeback/</loc>
-    <lastmod>2018-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/100-days-of-code-the-sequel/</loc>
-    <lastmod>2018-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/contact/</loc>
     <lastmod>2017-03-09T13:23:28+08:00</lastmod>
   </url>
@@ -38,35 +28,7 @@
   </url>
   
   <url>
-    <loc>/post/2018-04-05-100-days-of-code-challenge-the-comeback/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/100-days-of-code/</loc>
-    <lastmod>2018-04-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2018-04-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/coding/</loc>
-    <lastmod>2018-04-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/coding-in-r/</loc>
-    <lastmod>2018-04-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -77,26 +39,13 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2018-04-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/projects/</loc>
     <lastmod>2017-11-13T12:21:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2018-04-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <lastmod>2018-04-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
