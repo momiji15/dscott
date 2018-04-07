@@ -39,6 +39,24 @@
     </item>
     
     <item>
+      <title>100 Days of Code Challenge: The Comeback</title>
+      <link>/post/100-days-of-code-challenge-the-comeback/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/100-days-of-code-challenge-the-comeback/</guid>
+      <description>Testing 1 2 3</description>
+    </item>
+    
+    <item>
+      <title>100 Days of Code: The Sequel</title>
+      <link>/blog/100-days-of-code-the-sequel/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/100-days-of-code-the-sequel/</guid>
+      <description>If you don&amp;rsquo;t succeed, try try again. So I decided to try the 100 Days of Code challenge this year. Last year I did it, but only was able to get to Day 56. Not too bad, but I am still not satisfied that I didn&amp;rsquo;t go the distance. Technically I did code almost everyday from May to July, however that was for an internship, and I wasn&amp;rsquo;t too sure if I should have counted that.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
@@ -53,7 +71,16 @@
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       
       <guid>/about/</guid>
-      <description>Work in progress!</description>
+      <description>Current Research Interests I am interested in how we talk about health, how we map health, and how we visualize health. I combine geographic information systems(GIS), data science, visualization with public health methodology in better understand the relationships with health and various phenomena across physical and virtual spaces. In addition, I also combine public health and GIS models in order to create innovative mobile and web apps for health interventions.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/2018-04-05-100-days-of-code-challenge-the-comeback/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-04-05-100-days-of-code-challenge-the-comeback/</guid>
+      <description>100 Days of Code Challenge: The Comebackcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
     </item>
     
   </channel>
