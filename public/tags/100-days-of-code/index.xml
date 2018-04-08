@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>100 Days of Code on Introduction</title>
+    <link>/tags/100-days-of-code/</link>
+    <description>Recent content in 100 Days of Code on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/100-days-of-code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>100 Days of Code Challenge: The Comeback</title>
+      <link>/post/100-days-of-code-challenge-the-comeback/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/100-days-of-code-challenge-the-comeback/</guid>
+      <description>Testing 1 2 3</description>
+    </item>
+    
+    <item>
+      <title>100 Days of Code: The Sequel</title>
+      <link>/blog/100-days-of-code-the-sequel/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/100-days-of-code-the-sequel/</guid>
+      <description>If you don&amp;rsquo;t succeed, try try again. So I decided to try the 100 Days of Code challenge this year. Last year I did it, but only was able to get to Day 56. Not too bad, but I am still not satisfied that I didn&amp;rsquo;t go the distance. Technically I did code almost everyday from May to July, however that was for an internship, and I wasn&amp;rsquo;t too sure if I should have counted that.</description>
+    </item>
+    
+  </channel>
+</rss>
