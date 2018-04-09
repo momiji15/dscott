@@ -7,7 +7,7 @@ builddrafts             = false                             # Include pages with
 canonifyurls            = true                              # Turns relative urls into absolute urls
 # disqusshortname       = "xxx"                             # Enable Disqus for comments
 # googleAnalytics       = "xxx"
-#publishDir = "/public"
+publishDir = "/public"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]    
@@ -16,7 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     tagLine             = "I'm interested in public health, GIS, data visualization and instructional design."  # Appears after the introduction
     introHeight         = "large"                           # Input either 'medium' or 'large' or 'fullheight'
     themeStyle          = "light"                           # Choose 'light' or 'dark'
-    avatar              = "img/profile.jpg"                 # Path to image in static folder eg. img/avatar.png, or comment out to remove
+    avatar              = "img/profilesquare.jpg"                 # Path to image in static folder eg. img/avatar.png, or comment out to remove
     email               = ""             # Shows in contact section, or leave blank to omit
     localTime           = false                              # Show your current local time in contact section
     timeZone            = "America/Los_Angeles"             # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -32,7 +32,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     customCSS           = []                                # Include custom css files e.g. ["css/foo.css", "css/bar.css"]
 
     showBlog            = true                              # Show Blog section on home page
-    showProjects        = true                              # Show Projects section on home page
+    showProjects        = false                              # Show Projects section on home page
     projectColumns      = "3"                               # Choose "2" or "3" columns for projects section
     placeHolderimg      = "/img/workday.jpg"                # For Projects without image
     showAllPosts        = true                             # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page

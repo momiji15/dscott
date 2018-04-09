@@ -5,7 +5,7 @@ date: 2017-03-09T13:19:25+08:00
 
 # Current Research Interests
 
-<i>I am interested in how we talk about health, how we map health, and how we visualize health. I combine geographic information systems(GIS), data science, visualization with public health methodology in better understand the relationships with health and various phenomena across physical and virtual spaces. In addition, I also combine public health and GIS models in order to create innovative mobile and web apps for health interventions.</i>
+<i>I am interested in how we talk about health, how we map health, and how we visualize health. I combine geographic information systems(GIS), data science, visualization with public health methodology in better understand the relationships with health and various phenomena across physical and virtual spaces. In addition, I also combine public health and GIS models in order to create innovative mobile and web apps for health interventions and health communication.</i>
 
 ## Public Health
 I am interested in women veteran's health issues in terms of access for female veterans and overall satisfaction with the Veteran's Health Administration. I am also interested in health communication and ways we can improve disseminating evidence-based health information to the general public along with specific groups such as educators and community groups.
