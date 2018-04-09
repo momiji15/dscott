@@ -7,7 +7,7 @@ builddrafts             = false                             # Include pages with
 canonifyurls            = true                              # Turns relative urls into absolute urls
 # disqusshortname       = "xxx"                             # Enable Disqus for comments
 # googleAnalytics       = "xxx"
-publishDir = "/public"
+#publishDir = "/public"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]    
