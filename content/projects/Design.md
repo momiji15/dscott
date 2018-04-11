@@ -1,7 +1,7 @@
 ---
 title: "Tutorials and Courses"
 date: 2017-11-13T12:21:16-05:00
-image: "img/plant.jpg"
+image: "img/workday.jpg"
 external_link: "projects/design"
 weight: 2
 ---
