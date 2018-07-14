@@ -1,6 +1,6 @@
 baseurl                 = "https://nervous-kilby-15b1f7.netlify.com/"   # Your domain name. Must end with "/"
 languageCode            = "en-us"
-title                   = "Introduction"
+title                   = "D. Scott"
 theme = "hugo-theme-introduction"
 enforce_ssl             = false
 builddrafts             = false                             # Include pages with draft status of true

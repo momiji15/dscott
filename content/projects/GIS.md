@@ -1,7 +1,7 @@
 ---
 title: "NASA DEVELOP"
 date: 2017-11-13T12:21:21-05:00
-image: "/img/DEVELOP.jpg"
+image: "/img/developtoo.jpg"
 external_link: "projects/GIS"
 weight: 1
 ---
