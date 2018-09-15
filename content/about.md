@@ -22,7 +22,7 @@ I am interested in creating data visualizations that assist with health communic
  
 ## Showcase
 
-Interested in seeing my work? Head over to my [showcase site](https://boring-jepsen-4dd63d.netlify.com/) to see what I have been working on!
+Interested in seeing my work? Head over to my [showcase site](https://d-is-for-data.netlify.com/) to see what I have been working on!
 
 ## Other Interests
 
