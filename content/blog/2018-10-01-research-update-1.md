@@ -16,7 +16,7 @@ I am currently working on formatting the data for the VA hospital reviews. Given
 
 I am also in the process of collecting surveys. I would like to have at least 50 responses before I start with scheduling interviews, but I will start scheduling interviews starting from mid-September regardless. I e-mailed the director of the Student Veterans Resource center at my university and he will disseminate the survey in any future LISTSERV and newsletters. I also sent the link and flyer for the survey to a colleague who will e-mail the director of the student veterans resource center at his institution.
 
-I am also receiving some help from a PhD student at my university who is a woman veteran. Her insights have been valuable, and I plan to contact a list of contacts she provided to see if they are interested in my project and would be interested in disseminating my survey. 
+I am also receiving some help from a PhD candidate at my university who is a woman veteran. Her insights have been valuable, and I plan to contact a list of contacts she provided to see if they are interested in my project and would be interested in disseminating my survey. 
 
 ## September Research Update
 I have just started to do interviews and I plan to schedule and conduct interviews all throughout October. Also, I am in the final stages in getting the data prepared for analysis. I plan to see if there is a correlation between internet review data and the government produced data on VA hospitals. In addition, I want to see how patient satisfaction varies geographically on various scales. For my dissertation, I am required to submit three papers, and I am planning to finish a draft of my first paper by the end of this month. 
