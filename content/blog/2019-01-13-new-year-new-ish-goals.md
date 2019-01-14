@@ -1,5 +1,5 @@
 ---
-title: New Year, New(ish) Goals,
+title: New Year, New(ish) Goals
 author: D. Scott
 date: '2019-01-13'
 slug: new-year-new-ish-goals
@@ -40,7 +40,7 @@ This mostly applies to Twitter and Facebook and might sound counter-intuitive gi
 As I mentioned in my previous post, only way you can get better is by doing the tournaments. Hoping to do two before I leave the area, and I definitely know there are two that I can do in the area I will be moving to. 
 
 ### 3. Get ready for the Iyengar Yoga Teacher Assessment
-I've been studying and practicing the Iyengar method of yoga for six years now(which is really no time at all) and I am interested in becoming a Certified Iyengar Yoga Teacher(CIYT). I seriously don't know if this is a possibility this year, but that's one reason I'm cutting down on social media. I tend to waste a lot of time on social media. There's only so much time in the day and I need to dedicate some time to deepening my yoga practice and knowledge on yoga. Some years ago, I did a 200 hour yoga teacher training and received a Yoga Alliance teaching credential, but that process pales in comparison to the Iyengar Yoga Teacher Assessment. Many people compare it to being as rigorous as getting a PhD and given what I know about the process, no lies detected. I'm prepping for the teacher's assessment the same way I'm prepping for my comps. Even if I am not eligible to take it later on this year, at least I'm taking some steps towards that goal.
+I've been studying and practicing the Iyengar method of yoga for six years now(but have been doing yoga longer than that) and I am interested in becoming a Certified Iyengar Yoga Teacher(CIYT). I seriously don't know if this is a possibility this year, but that's one reason I'm cutting down on social media. I tend to waste a lot of time on social media. There's only so much time in the day and I need to dedicate some time to deepening my yoga practice and knowledge on yoga. Some years ago, I did a 200 hour yoga teacher training and received a Yoga Alliance teaching credential, but that process pales in comparison to the Iyengar Yoga Teacher Assessment. Many people compare it to being as rigorous as getting a PhD and given what I know about the process, no lies detected. I'm prepping for the teacher's assessment the same way I'm prepping for my comps. Even if I am not eligible to take it later on this year, at least I'm taking some steps towards that goal.
 
 ### 4. Get 7-8 hours of sleep
 I have really been underestimating the benefits of getting plenty of rest and it did me in last semester. This year, I'm going to make more of a concentrated effort to not skimp on my sleep! 
