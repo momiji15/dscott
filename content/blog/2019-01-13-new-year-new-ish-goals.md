@@ -24,7 +24,7 @@ I still don't know over what. I have an idea to make a package that is related t
 I am currently at 59% and am currently doing the Working with Dates and Times in R course. Unless something crazy happens, I think I will be able to finish this goal by the end of the year. 
 
 ### 5. Learn what I need to learn to be competitive for data scientist jobs
-I am all about keeping my options open. On top of Data Camp, I am doing some online math courses and I will take a Coursera course or two this summer. Going to rstudio::conf() last year, Hadley Wickham's visit to my school, and talking to some friends who are data scientists has really been helpful on helping me pave a learning path to be competitive for jobs. I feel that the community of R users are a very supportive community so I'm just going to keep to the path and see what happens! 
+I am all about keeping my options open. On top of Data Camp, I am doing some online math courses and I will take a Coursera course or two this summer. Going to rstudio::conf() last year, Hadley Wickham's visit to my school, and talking to some friends who are data scientists has really been helpful on helping me pave a learning path to be competitive for jobs. I feel that the community of R users is a very supportive community so I'm just going to keep to the path and see what happens! 
 
 Now that I got that out of the way, here's my one and only grad school goal.
 
