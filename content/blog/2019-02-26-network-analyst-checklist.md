@@ -99,8 +99,8 @@ Hearts on fire and all of that. Actually, I finished it all by the time I got to
 ### 4. Did you update your shapefile with the new changes?
 You're going to have to re-calculate some geometries and add any additional data to any newly created lines you made during the topology check. For me, I needed to re-calculate the geometry and add speed limits to my newly created lines.
 
-### 5. Did you rebuild the network?
-You absolutely have to do this if you want to see if your fixes did the trick. In order to bring some order to the chaos that can happen, I would recommend either creating a new workspace or putting your data in a new data frame.
+### 5. Did you make a new network with your updated shapefile?
+You absolutely have to do this if you want to see if your fixes did the trick. In order to bring some order to the chaos that can happen, I would recommend either creating a new workspace or putting your data in a new data frame. I exported the roads feature class I had in my TopologyCheck geodatabase and created a new network to just keep everything organized.  
 
 ### 6. Did you re-calculate the location fields?
 Once you load your locations in the OD Cost Matrix, you are going to have to recalculate the location fields since you are using an updated road network. You just need to right-click on your Origins and Destinations and click on <b>Recalculate Location Fields</b>.
