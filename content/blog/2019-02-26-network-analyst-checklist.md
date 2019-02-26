@@ -17,7 +17,7 @@ This past week, I was having a moment dealing with Network Analyst. I need to us
 <img src = "https://media.giphy.com/media/7Oy9GJGNMIzcc/giphy.gif" width = "500 px">
 <p></p>
 
-I used the [OD Cost Matrix](http://desktop.arcgis.com/en/arcmap/latest/extensions/network-analyst/od-cost-matrix.htm)  in order to find the least cost paths from my origins(population centroids derived from census tracts) to destinations(OBGYN providers) and vice-versa.  When I first ran the analysis, it could only find 50% of the locations. However, I buckled down, kept my eye on the Tiger, and as of yesterday, all of the locations have been found.
+I used the [OD Cost Matrix](http://desktop.arcgis.com/en/arcmap/latest/extensions/network-analyst/od-cost-matrix.htm)  in order to find the least cost paths from my origins(population centroids derived from census tracts) to destinations(OBGYN providers) and vice-versa.  When I first ran the analysis, it could only find 50% of the locations. However, I buckled down, kept my eye on the tiger, and as of yesterday, all of the locations have been found.
 
 <p align = "center">
 <img src= "https://media.giphy.com/media/W9G8OK82R3dfO/giphy.gif" width = "500 px">
