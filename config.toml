@@ -14,10 +14,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]    
     blogHead            = "Blog"                            # Full name shows on blog post pages
     firstName           = "Dorris"                    # First name shows in introduction on main page
-    tagLine             = "I'm interested in public health, GIS, data visualization and instructional design."  # Appears after the introduction
+    tagLine             = "I'm interested in GIS, R and all things related to data!"  # Appears after the introduction
     introHeight         = "large"                           # Input either 'medium' or 'large' or 'fullheight'
     themeStyle          = "light"                           # Choose 'light' or 'dark'
-    avatar              = "img/profilesquare.jpg"                 # Path to image in static folder eg. img/avatar.png, or comment out to remove
+    avatar              = "img/swissprofile.png"                 # Path to image in static folder eg. img/avatar.png, or comment out to remove
     email               = ""             # Shows in contact section, or leave blank to omit
     localTime           = false                              # Show your current local time in contact section
     timeZone            = "America/Los_Angeles"             # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones

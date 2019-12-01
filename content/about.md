@@ -2,39 +2,50 @@
 title: "About"
 date: 2017-03-09T13:19:25+08:00
 ---
+## From Academic Geography to the Library. How did that Happen?
 
-## Current Research Interests
+I started out being a health geographer and my focus was on GIS for public health applications.  My dissertation research revolved around women veteran's health issues in terms of access and overall satisfaction with the Veteran's Health Administration. I was also interested in health communication and ways we can improve disseminating evidence-based health information to the general public along with specific groups such as educators and community groups. All of this culminated into [HER Map](https://hermap.netlify.com/) which is a suite of web mapping apps which identify health and education resources for women veterans. 
 
-<i>Currently, I am a PhD Candidate in Geography at the University of Georgia with an emphasis on public health and GIS. I am interested in how we talk about health, how we map health, and how we visualize health. I combine geographic information systems(GIS), data science, visualization with public health methodology in better understand the relationships with health and various phenomena across physical and virtual spaces. In addition, I also combine public health and GIS models in order to create innovative mobile and web mapping apps for health interventions and health communication. I am also interested using instructional design to create a variety of GIS related educational materials for a variety of audiences.</i>
+While going through my program, I underwent a number of experiences and was able to take advantage of some opportunities. Some of these were to take additional courses on instructional design which really got me interested in process of the creation of learning materials. In addition, I became interested in outreach. How can we publicly engage various publics on geography? Due to this, I became highly involved in community geography, a growing sub-discipline along with coordinating various outreach endeavors such as integrating a service learning component in a lab section of an Advanced GIS class and organizing GIS Day. 
+
+Doing this outreach resulted in me engaging with a diverse array of people which ranged from municipal goverments, community organizations, faculty members from different departments and the university library. Actually, I did a lot of engagement with the library. First it started off as collaborating to organize GIS Day. Then, I ended up doing a summer internship in the library. Well, that was the point of no return because I was officially sucked into the library vortex!  I am currently the GIS Librarian/ Social Science Data Curator of Washington University - St. Louis.
 
 
-### Public Health
-My dissertation research revolves around women veteran's health issues in terms of access for female veterans and overall satisfaction with the Veteran's Health Administration. I am also interested in health communication and ways we can improve disseminating evidence-based health information to the general public along with specific groups such as educators and community groups.
+## Interests
 
 ### GIS
-My research revolves around using GIS to assessing spatial accessibility to health care facilities for women veterans. Specifically, I am looking at how to integrate traditional data sources, such as patient satisfaction surveys, and non-traditional data sources, such as Google Reviews, into spatial accessibility modelling. 
+My research for my dissertation revolved around using GIS to assess spatial accessibility to health care facilities for women veterans. Specifically, I looked at how to integrate traditional data sources, such as patient satisfaction surveys, and non-traditional data sources, such as Google Reviews, into spatial accessibility modelling. 
 
-### Data Visualization
-I am interested in creating data visualizations that assist with health communication and advocacy for public health related issues. For my research, I will create an web mapping app designed for women veterans to better understand the accessibility of VA Health facilities, identifying health and wellness resources that would be beneficial for women veterans, and information on VA eligibility along with organizations that help women veterans. 
+Currently, I do GIS consultations, education, and outreach. I assist students, faculty, and staff at WashU on their GIS needs and provide consultations on GIS related projects. I also teach and assist with various workshops on GIS such as QGIS, ESRI StoryMap, and using the leaflet for R package. I am also working on integrating updating the app I created for my PhD research within instructional units in an  Intro to GIS class.
 
-### Instructional Design
- I have a background in instructional design and instructional technology and have created custom modules and educational materials to make learning R less intimidating for a variety of learners. The ID models that I am most familiar with is the ADDIE model and the Dick, Carey, and Carey model.
+
+### R
+I like using R for cleaning up my data and visualizing my data. I also like using R to make websites.  I used what I learned in instructional design and technology courses along with banging my head on my desk trying to figure things out with R and created custom modules and [educational materials](https://github.com/momiji15/yearntolearn) to make learning R less intimidating for a variety of learners.
+
+
+### All the Data Things
+I'm interested in many many things related to data. But if I had to give a top three, I would have to say data visualization, data management, data curation.
+
+#### Data Visualization
+I started out being interested in creating data visualizations that assist with health communication and advocacy for public health related issues. But now since I'm working at the library, I have expanded that and I am broadly interested in just data visualizations for communication purposes. Data visualization is integral to data communication. Period. 
+
+#### Data Management
+Now I know it's the one thing people neglect, but it's important to manage your data! As part of my job, I assist people in coming up with data management plans along with assist in workshops on data management. Eventually, I'll be teaching a workshop on it and a more specific workshop on data management skills for coding. 
+
+#### Data Curation
+I am one of the data curators for WashU and I am a member of the [Data Curation Network](https://datacurationnetwork.org/). What is data curation you ask? Well I help you make the data you worked so hard for to obtain Findable, Accessible, Interoperable, and Reusuable (FAIR). If you have a data set that you want to make publicly available, then I can help you get your data ready to be deposited into a repository.
+
+### Graduate Students Well-Being and Assistance in Exploring Career Options
+While some of the experiences during my PhD program definitely opened up some opportunities to get where I am today, it was overall a negative experience. It definitely took a toll on my mental and physical health in ways I couldn't have ever imagined. I also felt there was a very narrow view of career options for PhD students and a narrow idea of the PhD student themselves which manifests itself on various levels. I'm still recovering from it all, and I hope to talk more about this in some shape or form moving forward. I want to broadly talk about this but also be more specific pertains to the graduate student experience in geography because that's what I know. In the meanwhile, I will direct people to organizations and other people that can help them!
+
+
+
+
  
 ## Showcase
 
 Interested in seeing my work? Head over to my [showcase site](https://d-is-for-data.netlify.com/) to see what I have been working on!
 
-## Other Interests
 
-### Coding
-I do a bulk of my research in the R programming language. I also know HTML, JavaScript, and Python. Once upon a time, I knew C++ as well. My interest in instructional design stems from doing too many headdesks and facepalms when trying to figuring out a coding issue and pondering of ways of teaching coding in a fun and accessible way. 
-
-### Photography
-I like taking photos...what else can I say? I especially like taking nature pics and pics of my travels. Those actually go hand and hand come to think of it.
-
-### Yoga
-I am a registered yoga teacher(RYT 200) and teach alignment-based yoga classes and chair yoga classes. I currently run free classes for my fellow graduate students and I also teach a chair yoga class at the Athens Community Council of Aging. I am also on the Iyengar yoga Next Generation Outreach Committee which goal is to make Iyengar yoga more accessible to underserved and underrepresented communities. 
-
-### Gardening
-I am currently a UGA Extension Office Master Gardener volunteer. I do the bulk of my volunteering at the UGA Extension Office at the Master Gardener Help Desk and I also do outreach events in the K-12 setting. 
+ 
 
